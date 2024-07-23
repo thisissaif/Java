@@ -1,2 +1,2 @@
 # Java Code
-here is practice of java programing
+here is the practice of Java programing
